@@ -6,7 +6,7 @@ step 1:   \
       Learn at least one Programming Language
 step 2:   \
       Learn about Complexities
-step 3:   \ 
+step 3:   
       Learn Data Structure and Algorithms
       1) Array
       2) String

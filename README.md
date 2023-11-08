@@ -2,11 +2,11 @@
 # Roadmap
 A complete roadmap for learning data structure and algorithms for anyone keen to learn DSA, from scratch. 
 5 steps to learn DSA from scratch
-step 1:
+step 1:   \
       Learn at least one Programming Language
-step 2:      
+step 2:   \
       Learn about Complexities
-step 3:    
+step 3:   \ 
       Learn Data Structure and Algorithms
       1) Array
       2) String
